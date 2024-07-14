@@ -1,5 +1,5 @@
 NLW Journey - Rocketseat
-Descrição do Projeto
+Descrição do Projeto:
 O NLW Journey é um projeto desenvolvido durante a Next Level Week (NLW) promovida pela Rocketseat. Esta edição do NLW visa proporcionar aos desenvolvedores uma experiência prática e imersiva em desenvolvimento de software, focando em tecnologias modernas e nas melhores práticas de mercado.
 
 Objetivos do Projeto
